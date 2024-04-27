@@ -10,11 +10,11 @@
 position = Vector2(362, 549)
 
 [node name="Icon" type="Sprite2D" parent="."]
-position = Vector2(322, -68)
+position = Vector2(343, -13)
 texture = ExtResource("2_2r8dx")
 
 [node name="Icon2" type="Sprite2D" parent="."]
-position = Vector2(307, 1227)
+position = Vector2(320, 1134)
 texture = ExtResource("2_2r8dx")
 
 [node name="Node2D" parent="." instance=ExtResource("1_gy82x")]
