@@ -22,7 +22,7 @@ size = Vector2(941, 20)
 position = Vector2(362, 549)
 
 [node name="Icon" type="Sprite2D" parent="."]
-position = Vector2(343, -13)
+position = Vector2(1290, -60)
 texture = ExtResource("2_2r8dx")
 
 [node name="Icon2" type="Sprite2D" parent="."]

@@ -1,5 +1,5 @@
 extends Node2D
-
+#Jairo deja de copiar codigos en ingles y ponlos en español
 const SPEED = 200  # Ship's movement speed
 var ROTATION_SPEED = 2  # Ship's rotation speed (can be adjusted)
 
